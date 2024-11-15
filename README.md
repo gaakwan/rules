@@ -1,1 +1,1 @@
-# rules
+圈X及Loon规则
