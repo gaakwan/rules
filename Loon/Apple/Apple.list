@@ -8,6 +8,8 @@
 # IP-CIDR: 10
 # USER-AGENT: 23
 # TOTAL: 1599
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
